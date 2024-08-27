@@ -4,10 +4,9 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "src/": "src/"
+            "Guodong\\MyPhpDemo\\": "src/"
         }
     },
-
     "authors": [
         {
             "name": "国栋",
