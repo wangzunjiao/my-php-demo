@@ -1,0 +1,8 @@
+{
+    "name": "guodong/my-php-demo",
+    "version": "0.1.0",
+    "require": {
+        "stripe/stripe-php": "^15.7"
+    }
+}
+git push -u origin main
