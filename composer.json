@@ -1,5 +1,19 @@
 {
     "name": "guodong/my-php-demo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "request": "src/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "国栋",
+            "email": "国栋"
+        }
+    ],
     "require": {
         "stripe/stripe-php": "^15.7"
     }
