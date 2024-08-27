@@ -4,17 +4,19 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "request": "src/"
+            "src": "src/"
         }
     },
 
     "authors": [
         {
             "name": "国栋",
-            "email": "国栋"
+            "email": "wangzunjiao.wzj@digital-engine.com"
         }
     ],
     "require": {
         "stripe/stripe-php": "^15.7"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
